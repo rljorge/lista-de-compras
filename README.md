@@ -1,4 +1,4 @@
-    # Lista de Compras
+# Lista de Compras
 
 Un componente de lista de compras desarrollado en JavaScript vanilla que consume la API de DummyJSON para demostrar conceptos fundamentales de JavaScript sin frameworks.
 
